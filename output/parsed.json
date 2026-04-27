@@ -1,0 +1,10 @@
+{
+  "order_number": "12345",
+  "date": "20210101",
+  "store": "Test Store",
+  "item": {
+    "quantity": "10",
+    "price": "15.00",
+    "sku": "ITEM001"
+  }
+}
